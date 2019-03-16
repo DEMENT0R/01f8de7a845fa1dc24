@@ -1,5 +1,4 @@
-
-
+<?php header('Access-Control-Allow-Origin: *'); ?>
 <!DOCTYPE html>
 <!--[if lte IE 6]> <html class="no-js ie  lt-ie10 lt-ie9 lt-ie8 lt-ie7 ancient oldie" lang="en-US"> <![endif]-->
 <!--[if IE 7]>     <html class="no-js ie7 lt-ie10 lt-ie9 lt-ie8 oldie" lang="en-US"> <![endif]-->
